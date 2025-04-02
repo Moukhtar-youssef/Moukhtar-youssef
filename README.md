@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Moukhtar-youssef
-- 👀 I’m interested in Games and Anime
 
 <!---
 Moukhtar-youssef/Moukhtar-youssef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
